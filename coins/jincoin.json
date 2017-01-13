@@ -2,6 +2,6 @@
     "name": "Jincoin",
     "symbol": "JIN",
     "algorithm": "sha256",
-    "peerMagic": "bcadafc4"
+    "peerMagic": "d7c4efeb"
 }
 
